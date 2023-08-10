@@ -1,4 +1,10 @@
 {
+    "admin":
+    {
+        "name": "Anyerson",
+        "correo": "Anyerson@gmail.com",
+        "password": "Home616"
+    },
     "movie": 
     [
         {
